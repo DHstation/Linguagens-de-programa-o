@@ -84,7 +84,7 @@ let dados = [
     // Link para a página da Wikipedia sobre AngularJS
     link: "https://pt.wikipedia.org/wiki/AngularJS",
     // Caminho para a imagem representativa do framework
-    img: "./imgs/AngularJs.png",
+    img: "./imgs/AngularJS.png",
     // Tags associadas ao framework para facilitar a pesquisa
     tags: "JavaScript, framework, AngularJS, single-page-applications, open-source, Google, MVVM, web-development"
   }
