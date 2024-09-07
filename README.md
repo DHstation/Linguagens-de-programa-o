@@ -16,11 +16,14 @@ Se houver correspondência com alguma ou todas as palavras pesquisadas, a lingua
 Bem-vindo ao Linguagens de Programação! Esta é uma aplicação super simples e prática que te ajuda a descobrir informações sobre várias linguagens de programação de forma rápida e descomplicada. Tem alguma dúvida sobre uma linguagem ou quer saber mais sobre suas características? Aqui é o lugar certo!
 **Como funciona? 🚀**
 
-    Digite o Nome ou Características: No campo de pesquisa, digite o nome de uma linguagem de programação ou qualquer característica dela que você quer explorar.
+    Digite o Nome ou Características: No campo de pesquisa, digite o nome de uma linguagem de programação 
+    ou qualquer característica dela que você quer explorar.
 
-    Clique em Buscar: Pressione o botão de busca e, em um piscar de olhos, você verá os resultados logo abaixo do campo de pesquisa.
+    Clique em Buscar: Pressione o botão de busca e, em um piscar de olhos, 
+    você verá os resultados logo abaixo do campo de pesquisa.
 
-    Veja os Resultados: Se a linguagem for encontrada, você verá uma apresentação estilosa com a imagem da linguagem, seu título, uma descrição e um link para mais informações na Wikipedia. Caso contrário, uma mensagem amigável informará que nada foi encontrado.
+    Veja os Resultados: Se a linguagem for encontrada, você verá uma apresentação estilosa com a imagem da linguagem, 
+    seu título, uma descrição e um link para mais informações na Wikipedia. Caso contrário, uma mensagem amigável informará que nada foi encontrado.
 
 **Como começar? 🔧**
 
