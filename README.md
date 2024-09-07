@@ -23,7 +23,8 @@ Bem-vindo ao Linguagens de Programação! Esta é uma aplicação super simples 
     você verá os resultados logo abaixo do campo de pesquisa.
 
     Veja os Resultados: Se a linguagem for encontrada, você verá uma apresentação estilosa com a imagem da linguagem, 
-    seu título, uma descrição e um link para mais informações na Wikipedia. Caso contrário, uma mensagem amigável informará que nada foi encontrado.
+    seu título, uma descrição e um link para mais informações na Wikipedia. Caso contrário, 
+    uma mensagem amigável informará que nada foi encontrado.
 
 **Como começar? 🔧**
 
